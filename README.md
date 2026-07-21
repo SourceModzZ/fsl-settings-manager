@@ -4,9 +4,9 @@
 
 **A lightweight, intuitive UI tool designed to easily manage and configure your `settings.ini` for FSL.**
 
-[![GitHub release](https://img.shields.io/github/v/release/SourceModzZ/fsl-settings-manager/?style=for-the-badge&color=blue)](https://github.com/SourceModzZ/fsl-settings-manager/releases)
+[![Release](https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge)](https://github.com/SourceModzZ/fsl-settings-manager/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows)](https://github.com/SourceModzZ/fsl-settings-manager)
-[![License](https://img.shields.io/github/license/SourceModzZ/fsl-settings-manager/?style=for-the-badge&color=green)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/SourceModzZ/fsl-settings-manager)
 
 ---
 
