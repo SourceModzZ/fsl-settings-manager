@@ -1,0 +1,10 @@
+# Visual Studio Cache & Build-Ordner
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Release-Dateien / Pakete
+*.zip
+*.7z
